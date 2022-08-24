@@ -1,2 +1,2 @@
 # asm-lib
-Some helpful arm thumb assembly functions.
+Some helpful arm thumb assembly functions and constants.
